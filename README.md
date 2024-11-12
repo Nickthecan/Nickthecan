@@ -10,7 +10,8 @@
   - LinkedIn: www.linkedin.com/in/nicholas-amancio
 ## 
 - 🔭 I’m currently working on
-  - TheSoft: A website for keeping track of my progress for a challenge designed to push a person to improve in the areas of physical fitness, emotional resilience and mental insight
+  - Sky-CotL-Bot: A discord bot that web scrapes to give information for the video game "Sky: Children of the Light"
+  - Japanese-Notebook: A website that can help keep track of my Japanese language learning skills.
   - Digital Garden: A mobile app for tracking expenses with a interesting twist by nurturing a virtual tree
   - Bronco Hacks Application Portal: An Application Portal Website for my School's Computer Science Society club's Hackathon
 - 🌱 I’m currently learning
