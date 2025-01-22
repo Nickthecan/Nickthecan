@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Everyone ! How are you ? Fine ? Thank You 👋
 ### My name is Nicholas Amancio
 - I am a 4th Year Computer Science Major at Cal Poly Pomona
 - I am currently working for the Information Technology Agency in the City of LA
@@ -15,10 +15,8 @@
   - Digital Garden: A mobile app for tracking expenses with a interesting twist by nurturing a virtual tree
   - Bronco Hacks Application Portal: An Application Portal Website for my School's Computer Science Society club's Hackathon
 - 🌱 I’m currently learning
-  - Big Data Analytics and Cloud Computing
-  - Operating Systems
-  - Parallel Processing
-  - Cryptography and Network Security
+  - Software Engineering
+  - Seminar Papers for College
 
 <!--
 **Nickthecan/Nickthecan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
