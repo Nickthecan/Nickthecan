@@ -16,7 +16,7 @@
   - Bronco Hacks Application Portal: An Application Portal Website for my School's Computer Science Society club's Hackathon
 - 🌱 I’m currently learning
   - Software Engineering
-  - Seminar Papers for College
+  - UI/UX Design Principles Research 
 
 <!--
 **Nickthecan/Nickthecan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
