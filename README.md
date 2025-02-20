@@ -10,10 +10,12 @@
   - LinkedIn: www.linkedin.com/in/nicholas-amancio
 ## 
 - 🔭 I’m currently working on
-  - Sky-CotL-Bot: A discord bot that web scrapes to give information for the video game "Sky: Children of the Light"
-  - Japanese-Notebook: A website that can help keep track of my Japanese language learning skills.
-  - Digital Garden: A mobile app for tracking expenses with a interesting twist by nurturing a virtual tree
+  - Quiz Slayer: A web application that allows users to create study guides and learn them through an idle fighting game
   - Bronco Hacks Application Portal: An Application Portal Website for my School's Computer Science Society club's Hackathon
+  - CPP CSS Website: Redesigning the Frontend for my school's Computer Science Society Club [Website](https://cppcss.club/)
+  - Japanese-Notebook: A website that can help keep track of my Japanese language learning skills.
+  - Sky-CotL-Bot: A discord bot that web scrapes to give information for the video game "Sky: Children of the Light"
+  - Digital Garden: A mobile app for tracking expenses with a interesting twist by nurturing a virtual tree
 - 🌱 I’m currently learning
   - Software Engineering
   - UI/UX Design Principles Research 
