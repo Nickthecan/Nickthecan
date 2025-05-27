@@ -1,6 +1,6 @@
 ## Hello Everyone ! How are you ? Fine ? Thank You 👋
 ### My name is Nicholas Amancio
-- I am a 4th Year Computer Science Major at Cal Poly Pomona
+- I am a Graduate with a Bachelor's in Computer Science Major at Cal Poly Pomona
 - I am currently working for the Information Technology Agency in the City of LA
 - I am working towards my goal of becoming a software engineer/Web Developer
 - Feel free to look through my repo's ! :D
@@ -16,7 +16,7 @@
   - Sky-CotL-Bot: A discord bot that web scrapes to give information for the video game "Sky: Children of the Light"
 - 🌱 I’m currently learning
   - Software Engineering
-  - UI/UX Design Principles Research 
+  - Blender for 3D models to use in projects
 
 <!--
 **Nickthecan/Nickthecan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
