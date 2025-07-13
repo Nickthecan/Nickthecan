@@ -14,6 +14,7 @@
   - CPP CSS Website: Redesigning the Frontend for my school's Computer Science Society Club [Website](https://cppcss.club/)
   - Japanese-Notebook: A website that can help keep track of my Japanese language learning skills.
   - Sky-CotL-Bot: A discord bot that web scrapes to give information for the video game "Sky: Children of the Light"
+  - WhosFree: A web application that allows users to check each other's availability so planning can be easier.
 - 🌱 I’m currently learning
   - Software Engineering
   - Blender for 3D models to use in projects
